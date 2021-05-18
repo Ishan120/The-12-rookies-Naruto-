@@ -1,0 +1,14 @@
+p1{
+    font-family: sans-serif;
+    font-size: 40px;
+}
+body{
+    background-color: bisque;
+    text-align: center;
+}
+.guy,kurenai,ausama,kakashi{
+    background-color: burlywood;
+}
+section{
+    text-align: left;
+}
